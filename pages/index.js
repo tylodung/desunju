@@ -48,7 +48,7 @@ const workElems = _.map(works, (work, index) =>
 const IndexComponent = () => (
   <div>
     <Helmet
-      title="Julia Sun"
+      title="Desunju"
       meta={[
         {
           name: 'description',
